@@ -13,6 +13,8 @@ namespace TestConsole
             Console.WriteLine("Teste Git !!!");
 
             ShowMessage("Teste 1");
+            ShowMessage("Teste 2");
+
 
             Console.ReadLine();
 
