@@ -25,5 +25,10 @@ namespace TestConsole
         {
             Console.WriteLine("A mensagem é: " + msg);
         }
+
+        private static void Foo()
+        {
+            Console.WriteLine("Executado método Foo!!!");
+        }
     }
 }

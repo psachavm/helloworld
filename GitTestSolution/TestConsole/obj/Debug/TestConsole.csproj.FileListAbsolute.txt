@@ -1,2 +1,3 @@
 D:\Sacha\Desenvolvimento\Projeto Git\GitTestSolution\TestConsole\bin\Debug\TestConsole.exe.config
 D:\Sacha\Desenvolvimento\TesteGit\User1\GitTestSolution\TestConsole\bin\Debug\TestConsole.exe.config
+D:\Sacha\TesteGit\User1\GitTestSolution\TestConsole\bin\Debug\TestConsole.exe.config
