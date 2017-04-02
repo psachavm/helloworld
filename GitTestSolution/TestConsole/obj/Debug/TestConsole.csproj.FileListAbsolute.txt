@@ -1,2 +1,8 @@
 D:\Sacha\Desenvolvimento\Projeto Git\GitTestSolution\TestConsole\bin\Debug\TestConsole.exe.config
 D:\Sacha\Desenvolvimento\TesteGit\User1\GitTestSolution\TestConsole\bin\Debug\TestConsole.exe.config
+D:\Sacha\TesteGit\User2\GitTestSolution\TestConsole\bin\Debug\TestConsole.exe.config
+D:\Sacha\TesteGit\User2\GitTestSolution\TestConsole\bin\Debug\TestConsole.exe
+D:\Sacha\TesteGit\User2\GitTestSolution\TestConsole\bin\Debug\TestConsole.pdb
+D:\Sacha\TesteGit\User2\GitTestSolution\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+D:\Sacha\TesteGit\User2\GitTestSolution\TestConsole\obj\Debug\TestConsole.exe
+D:\Sacha\TesteGit\User2\GitTestSolution\TestConsole\obj\Debug\TestConsole.pdb
